@@ -4,3 +4,6 @@ DOMAIN-SUFFIX,docker.io
 
 # ai
 DOMAIN-SUFFIX,poe.com
+
+# 生产力
+DOMAIN-SUFFIX,raycast.com
