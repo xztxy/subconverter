@@ -1,6 +1,10 @@
 # 开发
 DOMAIN-SUFFIX,brew.sh
+DOMAIN-SUFFIX,iterm2.com
+
+# 容器
 DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,lscr.io
 
 # ai
@@ -8,3 +12,7 @@ DOMAIN-SUFFIX,poe.com
 
 # 生产力
 DOMAIN-SUFFIX,raycast.com
+
+# arc
+DOMAIN-SUFFIX,arc.net
+DOMAIN-SUFFIX,arcboosts.com
