@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,iterm2.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,lscr.io
+DOMAIN-SUFFIX,ghcr.io
 
 # ai
 DOMAIN-SUFFIX,poe.com
