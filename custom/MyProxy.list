@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,ghcr.io
 # ai
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,fastgpt.run
+DOMAIN-SUFFIX,huggingface.co
 
 # 生产力
 DOMAIN-SUFFIX,raycast.com
