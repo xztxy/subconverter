@@ -2,6 +2,8 @@
 DOMAIN-SUFFIX,brew.sh
 DOMAIN-SUFFIX,iterm2.com
 DOMAIN-SUFFIX,rockylinux.org
+DOMAIN-SUFFIX,npmjs.org
+
 
 # 容器
 DOMAIN-SUFFIX,docker.io
