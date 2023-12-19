@@ -5,3 +5,6 @@ DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 # bing
 # DOMAIN-SUFFIX,bing.com
+
+# gemini
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
