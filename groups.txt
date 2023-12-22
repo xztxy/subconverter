@@ -1,6 +1,6 @@
 🐬 MyDirect`select`[]🎯 DIRECT`[]🔰 PROXY`.*
 🚀 MyProxy`select`[]🔰 PROXY`[]🎯 DIRECT`.*
-🕸️ OpenAI`select`(US|us|美国|🇺🇸)`[]🇺🇲 美国节点`
+🕸️ OpenAI`select`(US|us|美国|🇺🇸|IEPL)`[]🇺🇲 美国节点`
 🔰 PROXY`select`[]🎯 DIRECT`.*
 🎬 Media`select`(香港|HK|hk|🇭🇰|台湾|TW|tw|新加坡|SG|sg|🇸🇬)
 ▶️ YouTube`select`[]🔰 PROXY`[]🎬 Media`.*
