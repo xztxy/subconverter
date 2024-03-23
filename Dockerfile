@@ -5,7 +5,7 @@ LABEL maintainer="shelken.pxk@gmail.com"
 ENV VERSION 0.9.3
 
 WORKDIR /base
-RUN apk add tzdata=2024a-r1 --no-cache && \
+RUN apk add tzdata --no-cache && \
     cp /usr/share/zoneinfo/Asia/Shanghai /etc/localtime && \
     echo "Asia/Shanghai" > /etc/timezone && \
     apk del tzdata
