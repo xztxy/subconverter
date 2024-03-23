@@ -1,10 +1,11 @@
-FROM tindy2013/subconverter
+#FROM tindy2013/subconverter
+FROM asdlokj1qpi23/subconverter:0.9.3
 LABEL maintainer="shelken.pxk@gmail.com"
 
-ENV VERSION 0.8.1
+ENV VERSION 0.9.3
 
 WORKDIR /base
-RUN apk add tzdata && \
+RUN apk add tzdata=2024a-r1 --no-cache && \
     cp /usr/share/zoneinfo/Asia/Shanghai /etc/localtime && \
     echo "Asia/Shanghai" > /etc/timezone && \
     apk del tzdata
@@ -16,4 +17,4 @@ EXPOSE 25500
 
 WORKDIR /base
 
-CMD subconverter
+CMD ["subconverter"]
