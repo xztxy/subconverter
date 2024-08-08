@@ -3,8 +3,12 @@
 
 DOMAIN-SUFFIX,shelken.top
 DOMAIN-SUFFIX,ooooo.space
+
+# game
 DOMAIN-SUFFIX,store.epicgames.com
 
+# amazon
+DOMAIN-SUFFIX,amazon.com.cn
 
 # dns over https
 IP-CIDR,1.1.1.1/32,no-resolve
