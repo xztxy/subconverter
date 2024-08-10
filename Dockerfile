@@ -10,9 +10,9 @@ RUN apk add tzdata --no-cache && \
     echo "Asia/Shanghai" > /etc/timezone && \
     apk del tzdata
 
-COPY groups.txt rulesets.txt /base/snippets/
-COPY pref.yml /base
-COPY tmpl/singbox.tpl /base/
+COPY groups.txt rulesets.txt ./snippets/
+COPY pref.yml ./
+COPY tmpl/singbox.tpl base/
 
 EXPOSE 25500
 
