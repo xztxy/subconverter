@@ -12,6 +12,7 @@ RUN apk add tzdata --no-cache && \
 
 COPY groups.txt rulesets.txt /base/snippets/
 COPY pref.yml /base
+COPY tmpl/singbix.tpl /base/
 
 EXPOSE 25500
 
