@@ -11,3 +11,7 @@ DOMAIN-SUFFIX,chatgpt.livekit.cloud
 # gemini
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,makersuite.google.com
+
+# claude
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
