@@ -1,5 +1,4 @@
 # mine
-DOMAIN-SUFFIX,lobe-chat.shelken.top
 
 # 开发
 DOMAIN-SUFFIX,brew.sh
@@ -25,3 +24,6 @@ DOMAIN-SUFFIX,raycast.com
 # arc
 DOMAIN-SUFFIX,arc.net
 DOMAIN-SUFFIX,arcboosts.com
+
+# miaona
+DOMAIN-KEYWORD,miaona
