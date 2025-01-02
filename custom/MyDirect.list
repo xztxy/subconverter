@@ -11,6 +11,13 @@ DOMAIN-SUFFIX,store.epicgames.com
 DOMAIN-SUFFIX,amazon.com.cn
 DOMAIN-SUFFIX,amazonaws.com.cn
 
+# bank
+DOMAIN-SUFFIX,zajourney.com
+DOMAIN-SUFFIX,za.group
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,bochk.com
 
 # dns over https
 IP-CIDR,1.1.1.1/32,no-resolve
