@@ -1,17 +1,31 @@
 # jav site
 DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,njav.tv
+DOMAIN-SUFFIX,jable.tv
 DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,123av.com
 DOMAIN-SUFFIX,hanime1.me
 DOMAIN-SUFFIX,javlibrary.com
 DOMAIN-SUFFIX,javbus.com
+DOMAIN-SUFFIX,javplayer.me
 
 DOMAIN-KEYWORD,fc2
 DOMAIN-KEYWORD,hentai
 
 # cdn site
-
+DOMAIN,cdn.avfever.net
+DOMAIN-SUFFIX,avfever.net
+## 123av
+DOMAIN-SUFFIX,skyearth.xyz
+## hanime1
+DOMAIN-SUFFIX,vdownload.hembed.com
+## pornhub
+DOMAIN-SUFFIX,phncdn.com
+## jable
+DOMAIN-SUFFIX,mushroomtrack.com
+DOMAIN,hot-box-gen.mushroomtrack.com
+## missav
+DOMAIN-SUFFIX,surrit.com
 
 # porn 
 DOMAIN-SUFFIX,pornhub.com
