@@ -1,4 +1,5 @@
 # openai
+DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,openai-api.arkoselabs.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,oaistatic.com
@@ -8,6 +9,9 @@ DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,livekit.cloud
 # bing
 # DOMAIN-SUFFIX,bing.com
+
+# groq
+DOMAIN-SUFFIX,groq.com
 
 # gemini
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
