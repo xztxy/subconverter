@@ -1,6 +1,9 @@
 # 所有cn结尾
 # DOMAIN-SUFFIX,cn
 
+# icloud
+DOMAIN-KEYWORD,icloud
+
 DOMAIN-SUFFIX,shelken.top
 DOMAIN-SUFFIX,ooooo.space
 
