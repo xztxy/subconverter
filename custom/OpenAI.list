@@ -33,6 +33,9 @@ DOMAIN-SUFFIX,developerprofiles-pa.googleapis.com
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
 
+# notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google
+
 # claude
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
