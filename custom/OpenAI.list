@@ -35,6 +35,7 @@ DOMAIN-KEYWORD,generativelanguage
 
 # notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
 
 # claude
 DOMAIN,cdn.usefathom.com
