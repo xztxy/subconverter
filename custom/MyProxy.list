@@ -6,6 +6,17 @@ DOMAIN-SUFFIX,iterm2.com
 DOMAIN-SUFFIX,rockylinux.org
 DOMAIN-SUFFIX,npmjs.org
 
+# github
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,githubassets.com
+
+# google
+DOMAIN-SUFFIX,gstatic.com
+
+# wiki
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikipedia.org
 
 # 容器
 DOMAIN-SUFFIX,docker.io
@@ -30,3 +41,15 @@ DOMAIN-KEYWORD,miaona
 
 # 加密货币
 DOMAIN-SUFFIX,metamask.io
+
+# reddit
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,redditmedia.com
+
+# 其他
+DOMAIN-SUFFIX,nodeseek.com
+DOMAIN-SUFFIX,imgur.com
+DOMAIN-SUFFIX,api.revenuecat.com
+DOMAIN-SUFFIX,v2ex.com
