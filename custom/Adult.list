@@ -4,10 +4,13 @@ DOMAIN-SUFFIX,njav.tv
 DOMAIN-SUFFIX,jable.tv
 DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,123av.com
+DOMAIN-SUFFIX,123av.me
 DOMAIN-SUFFIX,hanime1.me
 DOMAIN-SUFFIX,javlibrary.com
 DOMAIN-SUFFIX,javbus.com
 DOMAIN-SUFFIX,javplayer.me
+DOMAIN-SUFFIX,motv.app
+DOMAIN,s.dsqcjk.com
 
 DOMAIN-KEYWORD,fc2
 DOMAIN-KEYWORD,hentai
@@ -27,6 +30,10 @@ DOMAIN-SUFFIX,mushroomtrack.com
 DOMAIN,hot-box-gen.mushroomtrack.com
 ## missav
 DOMAIN-SUFFIX,surrit.com
+## xvideo
+DOMAIN-SUFFIX,xvideos-cdn.com
 
 # porn 
 DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,xvv1deos.com
+DOMAIN-SUFFIX,xvideos.com
