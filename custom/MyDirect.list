@@ -3,7 +3,9 @@
 
 # icloud
 DOMAIN-KEYWORD,icloud
+DOMAIN-SUFFIX,icloud.com.cn
 
+# mine
 DOMAIN-SUFFIX,shelken.top
 DOMAIN-SUFFIX,ooooo.space
 
@@ -21,6 +23,10 @@ DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,bochk.com
+
+# other
+DOMAIN-SUFFIX,ocsp.digicert.com
+DOMAIN-SUFFIX,gitee.io
 
 # dns over https
 IP-CIDR,1.1.1.1/32,no-resolve
