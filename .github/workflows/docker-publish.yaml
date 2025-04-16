@@ -8,7 +8,7 @@ env:
   DOCKERHUB_REGISTRY: docker.io
   GHCR_REGISTRY: ghcr.io
   # 镜像名称配置
-  DOCKERHUB_USERNAME: your-real-dockerhub-name  # 替换为您的真实Docker Hub用户名
+  DOCKERHUB_USERNAME: ${{ secrets.DOCKERHUB_USERNAME }}  # 替换为您的真实Docker Hub用户名
   REPO_NAME: subconverter  # 仓库名保持不变
 jobs:
   build:
