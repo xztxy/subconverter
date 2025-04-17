@@ -8,6 +8,10 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
 DOMAIN-SUFFIX,livekit.cloud
 DOMAIN-SUFFIX,sora.com
+
+# windsurf
+DOMAIN-SUFFIX,windsurf.com
+
 # bing
 # DOMAIN-SUFFIX,bing.com
 
