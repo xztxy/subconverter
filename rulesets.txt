@@ -6,6 +6,7 @@
 🚫 AdBlock,https://raw.githubusercontent.com/shelken/subconverter/master/custom/MyReject.list
 🚫 AdBlock,https://raw.githubusercontent.com/NobyDa/Script/master/Surge/AdRule.list
 🚫 AdBlock,https://raw.githubusercontent.com/shelken/ios_rule_script/master/rule/Surge/Hijacking/Hijacking.list
+🔞 AdultNSFW,https://raw.githubusercontent.com/shelken/subconverter/master/custom/Adult.list
 ▶️ YouTube,https://raw.githubusercontent.com/shelken/ios_rule_script/master/rule/Clash/YouTube/YouTube.list
 🍿 Netflix,https://raw.githubusercontent.com/shelken/ios_rule_script/master/rule/Clash/Netflix/Netflix.list
 🐰 DisneyPlus,https://raw.githubusercontent.com/shelken/ios_rule_script/master/rule/Clash/Disney/Disney.list
