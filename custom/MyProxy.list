@@ -48,6 +48,12 @@ DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,redditmedia.com
 
+# todoist
+DOMAIN-SUFFIX,todoist.com
+
+# nintendo/ptcg
+DOMAIN-SUFFIX,pokemon-webapi.appspot.com
+
 # 其他
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,imgur.com
