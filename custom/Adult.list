@@ -2,9 +2,6 @@
 DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,njav.tv
 DOMAIN-SUFFIX,jable.tv
-DOMAIN-SUFFIX,missav.com
-DOMAIN-SUFFIX,123av.com
-DOMAIN-SUFFIX,123av.me
 DOMAIN-SUFFIX,hanime1.me
 DOMAIN-SUFFIX,javlibrary.com
 DOMAIN-SUFFIX,javbus.com
@@ -13,6 +10,11 @@ DOMAIN-SUFFIX,motv.app
 DOMAIN-SUFFIX,javtrailers.com
 DOMAIN-SUFFIX,tktube.com
 DOMAIN-SUFFIX,fpo.xxx
+DOMAIN-SUFFIX,ggjav.com
+DOMAIN-SUFFIX,hohoj.tv
+DOMAIN-SUFFIX,7mmtv.sx
+DOMAIN-SUFFIX,4hu.tv
+DOMAIN-SUFFIX,5masterzzz.site
 DOMAIN,s.dsqcjk.com
 
 DOMAIN-KEYWORD,fc2
@@ -22,6 +24,7 @@ DOMAIN-KEYWORD,javmost
 DOMAIN-KEYWORD,missav
 DOMAIN-KEYWORD,123av
 DOMAIN-KEYWORD,goodav
+DOMAIN-KEYWORD,javdh
 
 # cdn site
 DOMAIN,cdn.avfever.net
@@ -41,6 +44,8 @@ DOMAIN,hot-box-gen.mushroomtrack.com
 DOMAIN-SUFFIX,surrit.com
 ## xvideo
 DOMAIN-SUFFIX,xvideos-cdn.com
+## other 
+DOMAIN-SUFFIX,cdn-centaurus.com
 
 # porn 
 DOMAIN-SUFFIX,pornhub.com
