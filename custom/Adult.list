@@ -11,12 +11,17 @@ DOMAIN-SUFFIX,javbus.com
 DOMAIN-SUFFIX,javplayer.me
 DOMAIN-SUFFIX,motv.app
 DOMAIN-SUFFIX,javtrailers.com
+DOMAIN-SUFFIX,tktube.com
+DOMAIN-SUFFIX,fpo.xxx
 DOMAIN,s.dsqcjk.com
 
 DOMAIN-KEYWORD,fc2
 DOMAIN-KEYWORD,hentai
 DOMAIN-KEYWORD,xvideo
 DOMAIN-KEYWORD,javmost
+DOMAIN-KEYWORD,missav
+DOMAIN-KEYWORD,123av
+DOMAIN-KEYWORD,goodav
 
 # cdn site
 DOMAIN,cdn.avfever.net

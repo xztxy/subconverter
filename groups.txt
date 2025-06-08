@@ -3,6 +3,7 @@
 🐬 MyDirect`select`[]🎯 DIRECT`[]🔰 PROXY`.*
 🚀 MyProxy`select`[]🔰 PROXY`[]🎯 DIRECT`.*
 🕸️ OpenAI`select`[]🇯🇵 日本节点`.*
+🕸️ Gemini`select`[]🇯🇵 日本节点`.*
 🎮 PTCG`select`[]🎯 DIRECT`.*
 🇯🇵 JapanSite`select`(Japan|JP|日本|🇯🇵)
 🔞 AdultNSFW`select`(美国|hy)`[]🔰 PROXY
